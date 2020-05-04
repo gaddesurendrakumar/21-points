@@ -1,0 +1,28 @@
+{
+  "twentyOnePointsApp": {
+    "points": {
+      "home": {
+        "title": "Points",
+        "createLabel": "కొత్త Points  సృష్టించండి",
+        "createOrEditLabel": "Points సృష్టించండి లేదా సవరించండి",
+        "search": "Points కొరకు శోధించండి",
+        "notFound": "No Points found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Points సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Points సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Points తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Points {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Points"
+      },
+      "date": "Date",
+      "exercise": "Exercise",
+      "meals": "Meals",
+      "alcohol": "Alcohol",
+      "notes": "Notes",
+      "user": "User"
+    }
+  }
+}

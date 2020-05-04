@@ -1,0 +1,26 @@
+{
+  "twentyOnePointsApp": {
+    "bloodpressure": {
+      "home": {
+        "title": "Bloodpressures",
+        "createLabel": "కొత్త Bloodpressure  సృష్టించండి",
+        "createOrEditLabel": "Bloodpressure సృష్టించండి లేదా సవరించండి",
+        "search": "Bloodpressure కొరకు శోధించండి",
+        "notFound": "No Bloodpressures found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Bloodpressure సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Bloodpressure సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Bloodpressure తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Bloodpressure {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Bloodpressure"
+      },
+      "timestamp": "Timestamp",
+      "systolic": "Systolic",
+      "diastolic": "Diastolic",
+      "user": "User"
+    }
+  }
+}
